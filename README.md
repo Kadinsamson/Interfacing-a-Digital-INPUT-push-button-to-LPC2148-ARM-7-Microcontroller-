@@ -115,8 +115,8 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 ### Kiel - Program  
 
 ```
-NAME:- VISHAL GOWTHAMAN K R
-REG NO:- 212221230123
+NAME:- Kadin Samson L
+REG NO:- 212221230044
 
 #include <LPC214x.h>   // define LPC2148 Header file
 #define led (1<<2)     // led macro for pin 2 of port0
